@@ -37,11 +37,5 @@ The objective of this project is to analyze sales and profit performance across 
 
 ---
 
-## 📁 Project Files
-- `E-commerce_Sales_Analysis.ipynb` – Complete analysis with visualizations and insights  
-- `Problem_Statements.pdf` – Problem statements solved in this project  
-
----
-
 ## ✅ Conclusion
 This project demonstrates how e-commerce sales data can be transformed into actionable business insights. The findings help identify profit drivers, optimize underperforming areas, and support strategic decisions aimed at improving overall sales and profitability.
